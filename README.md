@@ -8,7 +8,7 @@ node head with following functions.</br>
 input values.</br>
 5. Swap: Swap two nodes of the list. You cannot just swap data of the two nodes; you have
 to swap the nodes themselves.</br>
-# Iterator class:
+# ITERATOR CLASS
 Implement a bidirectional iterator class for this link list, for handling of following operations.</br>
 1. Increment Operator ++: both post and pre.</br>
 2. Decrement Operator --: both post and pre.</br>
@@ -38,7 +38,8 @@ values in the list. It will return position as an iterator object, or null other
 9. Search_All: This function will search and return position of the all occurrences of
 values from the list. It will return position as iterator objects, or null otherwise.
 </br>
-# Part B: (Text Editor)
+# PART B
+(Text Editor)
 You have to implement a text editor using the doubly linked list (created in Part A). Each
 character will be stored as a node in the list.</br>
 Code Provided: You are provided with four files myconsole.h, myconsole.cpp, editor.h and
