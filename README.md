@@ -37,7 +37,6 @@ iterator pointer.</br>
 values in the list. It will return position as an iterator object, or null otherwise.</br>
 9. Search_All: This function will search and return position of the all occurrences of
 values from the list. It will return position as iterator objects, or null otherwise.
-</br>
 # PART B
 (Text Editor)
 You have to implement a text editor using the doubly linked list (created in Part A). Each
